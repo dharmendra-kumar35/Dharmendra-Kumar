@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3aLBkDpLbmLUBAl8dQkpmi&ust=1710684123649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCk3I_5-IQDFQAAAAAdAAAAABAE">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmendra-kumar35" alt="dharmendra-kumar35" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dharmendra-kumar35](https://github.com/dharmendra-kumar35)
